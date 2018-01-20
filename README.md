@@ -9,7 +9,7 @@ this `is some` code
 ```
 This is a multi-line code section
   if bored {
-    go_die();
+    func();
   }
 ```
 
